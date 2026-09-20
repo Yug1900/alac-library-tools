@@ -2,6 +2,10 @@
 
 Two interactive PowerShell utilities for building and checking an Apple Lossless (ALAC) music library on Windows.
 
+This project was created with the intention of making the resulting files compatible with an iPod Touch.
+
+> AI-generated content disclaimer: some or all of the content in this project, including documentation and scripts, may have been generated or assisted by AI tools.
+
 ## Requirements
 
 - PowerShell 5.1 or newer
